@@ -1,0 +1,16 @@
+{
+    "name" : "victormsk/test",
+    "description": "Обучение по использованию композера",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "test\\": "src/class/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "test\\": "src/class/"
+        }
+    }
+}
